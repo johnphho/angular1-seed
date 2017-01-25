@@ -6,7 +6,8 @@
   "author": "johnphho <johnphho@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "latest"
+    "gulp": "latest",
+    "webpack": "beta"
   },
   "dependencies": {
     "angular": "latest"
