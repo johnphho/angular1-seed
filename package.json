@@ -6,6 +6,7 @@
   "author": "johnphho <johnphho@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "latest",
     "gulp": "latest",
     "webpack": "beta"
   },
