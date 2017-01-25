@@ -1,0 +1,11 @@
+{
+  "name": "angular1-seed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:johnphho/angular1-seed.git",
+  "author": "johnphho <johnphho@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "latest"
+  }
+}
