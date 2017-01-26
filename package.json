@@ -7,9 +7,18 @@
   "license": "MIT",
   "devDependencies": {
     "babel-core": "latest",
+    "babel-eslint": "latest",
     "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-stage-0": "latest",
+    "browser-sync": "latest",
+    "css-loader": "latest",
     "gulp": "latest",
-    "webpack": "beta"
+    "gulp-eslint": "latest",
+    "html-webpack-plugin": "latest",
+    "style-loader": "latest",
+    "webpack": "beta",
+    "webpack-stream": "latest"
   },
   "dependencies": {
     "angular": "latest"
