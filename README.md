@@ -2,7 +2,7 @@
 modern angular1 starter
 
 ## Features
-* gulp
+* gulp 4
 * ng-annotation
 * es6
 * webpack
